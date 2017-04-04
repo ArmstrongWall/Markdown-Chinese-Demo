@@ -46,6 +46,11 @@
 
     }
 
+### 首行缩进
+&emsp;/&#8195;全方大的空白<br />
+&ensp;/&#8194;半方大的空白<br />
+&nbsp;/&#160;不断行的空白格<br />
+
 ### 链接
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />
